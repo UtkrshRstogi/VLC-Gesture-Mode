@@ -14,10 +14,13 @@ The following VLC media source code consist the following gestures.
 
 ![Alt Text](sample.gif)
 
-
+```sh
+$ pip install -r requirements.txt
+```
+Install the addiotional requirements. The requirements.txt file is available in src folder.
 
 The following has the idea of providing a seamless user experience to the user.
 
-The src consists of the image classification codes. The VLC folder conssit of the updated source code of VLC with hand gesture controls.
+The src consists of the image classification codes. The VLC folder conssit of the updated source code of VLC with hand gesture controls. The following VLC media player wokrs on Mac and no other changes were made in it. 
 
 Please check the documentation to setup and run the above.
