@@ -1,9 +1,5 @@
 # VLC-Gesture-Mode
 
-
-![Alt Text](sample.gif)
-
-
 The purpose of this porject is to detect hand gestues in images and control the VLC media player. It is being done using OpenCV and not using Machine/Deep Learning. However, it is not as as accurate (backgrounds with similar color as that of skin can fool the detector). Also note that, this isn't really a "Hand detector". It is just an Object Detector, using color. You can play around and modify the code to detect other objects as well, pretty easily. 
 The following VLC media source code consist the following gestures. 
 	1. Palm Close -  Mute the audio
@@ -13,6 +9,12 @@ The following VLC media source code consist the following gestures.
 	5. Palm Up- Volume raise
 	6. Palm Down - Volume down
 	7. I am also trying to include close the video and open the video getsture. We can also add pause and play getsure.
+	
+	
+
+![Alt Text](sample.gif)
+
+
 
 The following has the idea of providing a seamless user experience to the user.
 
