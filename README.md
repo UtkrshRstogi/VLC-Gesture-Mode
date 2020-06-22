@@ -21,6 +21,6 @@ Install the addiotional requirements. The requirements.txt file is available in 
 
 The following has the idea of providing a seamless user experience to the user.
 
-The src consists of the image classification codes. The VLC folder conssit of the updated source code of VLC with hand gesture controls. The following VLC media player wokrs on Mac and no other changes were made in it. 
+The src consists of the image classification codes. The VLC folder conssit of the updated source code of VLC with hand gesture controls. The following VLC media player wokrs on Mac and no other changes were made in it. Code with no changes are not uploaded.
 
 Please check the documentation to setup and run the above.
